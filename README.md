@@ -1,1 +1,1 @@
-# git_practice colaboration
+# git_practice collaboration
